@@ -1,0 +1,2 @@
+- The aim for this project is to showcase my current Active Directory skills and planning, with the goal to create and maintain a structured and functional Active Directory setup for Northwind Traders Ltd.
+- (To view my project, click on the .odt file to the left and select "view raw". It should then begin an automatic downlaod of the word document).
